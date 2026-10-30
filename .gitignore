@@ -1,0 +1,20 @@
+
+ Visual Studio generated files
+.vs/
+*.user
+*.suo
+
+ Build output folders
+bin/
+obj/
+
+ NuGet packages
+*.nupkg
+
+ Temporary files
+*.tmp
+*.log
+
+ Operating system files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="AI-Usage-Record.md" />
+    <File Path="DesignSpecification.md" />
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="CourseRegistration/CourseRegistration.csproj" />
+  <Project Path="Course_Application/Course_Application.csproj" />
+  <Project Path="Course_Domain/Course_Domain.csproj" />
+  <Project Path="Course_Infrastructure/Course_Infrastructure.csproj" />
+  <Project Path="Course_Tests/Course_Tests.csproj" />
+</Solution>
